@@ -19,7 +19,7 @@ This demo was developed as part of a project integrating physical and digital in
 # Views
 
 <p align="center">
-    <img src="img/energy.jpg" alt="First screen" width="300"/>
-   <img src="img/water.jpg" alt="Second screen" width="300"/>
-    <img src="img/heat.jpg" alt="Second screen" width="300"/>
+    <img src="img/energy.jpg" alt="First screen" width="250" height="557"/>
+   <img src="img/water.jpg" alt="Second screen" width="250"  height="557"/>
+    <img src="img/heat.jpg" alt="Second screen" width="250" height="557"**/>
 </p>
